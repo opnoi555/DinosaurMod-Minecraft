@@ -20,7 +20,6 @@ public class Dinosaur_Mod
 {
     // Define mod id in a common place for everything to reference
     public static final String MOD_ID = "DinosaurMod";
-    // Directly reference a slf4j logger
     private static final Logger LOGGER = LogUtils.getLogger();
 
     public Dinosaur_Mod(FMLJavaModLoadingContext context)
